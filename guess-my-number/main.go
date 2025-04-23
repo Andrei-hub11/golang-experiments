@@ -33,8 +33,8 @@ func main() {
 			continue
 		}
 
-		attempts = incrementAttempts(attempts)
-		remainingAttempts = decrementRemainingAttempts(remainingAttempts)
+		attempts++
+		remainingAttempts--
 
 		if(remainingAttempts <= 0) {
 			fmt.Printf(constants.GameOverMsg, secretNumber)
@@ -74,12 +74,4 @@ func checkGuess(guess int, secretNumber int) bool {
 
 	fmt.Println(constants.CorrectMsg)
 	return true
-}
-
-func incrementAttempts(attempts int) int {
-	return attempts + 1
-}
-
-func decrementRemainingAttempts(remainingAttempts int) int {
-	return remainingAttempts - 1
 }

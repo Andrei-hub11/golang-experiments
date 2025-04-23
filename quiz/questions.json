@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "question": "What is the capital of Germany?",
+    "options": ["Washington", "Stockholm", "Berlin", "Madrid"],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "question": "What is the capital of Italy?",
+    "options": ["Rome", "London", "Berlin", "Madrid"],
+    "answer": 0
+  },
+  {
+    "id": 4,
+    "question": "What is the capital of Spain?",
+    "options": ["Shanghai", "London", "Sofia", "Madrid"],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "question": "What is the capital of Portugal?",
+    "options": ["Vienna", "Tokyo", "Lisbon", "Stockholm"],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "question": "What is the capital of Greece?",
+    "options": ["Athens", "London", "Berlin", "Madrid"],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "question": "What is the capital of Turkey?",
+    "options": ["Paris", "Ankara", "Berlin", "Madrid"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "What is the capital of Austria?",
+    "options": ["Vienna", "Brasília", "Berlin", "Stockholm"],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "question": "What is the capital of Switzerland?",
+    "options": ["Paris", "London", "Bern", "Rome"],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "question": "What is the capital of Belgium?",
+    "options": ["Brussels", "London", "Berlin", "Madrid"],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "question": "What is the capital of Netherlands?",
+    "options": ["Rome", "Amsterdam", "Berlin", "Brussels"],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "What is the capital of Norway?",
+    "options": ["Paris", "London", "Oslo", "Madrid"],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "question": "What is the capital of Sweden?",
+    "options": ["Paris", "Stockholm", "Berlin", "Madrid"],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "What is the capital of Denmark?",
+    "options": ["Tokyo", "Copenhagen", "Berlin", "Vienna"],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "What is the capital of Finland?",
+    "options": ["Shanghai", "Rome", "Berlin", "Helsinki"],
+    "answer": 3
+  },
+  {
+    "id": 16,
+    "question": "What is the capital of Iceland?",
+    "options": ["Lisbon", "Stockholm", "Reykjavik", "Madrid"],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "question": "What is the capital of Poland?",
+    "options": ["Warsaw", "Stockholm", "Kiev", "Shanghai"],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "question": "What is the capital of Ukraine?",
+    "options": ["Amsterdam", "Stockholm", "Kiev", "Dublin"],
+    "answer": 2
+  },
+  {
+    "id": 19,
+    "question": "What is the capital of Romania?",
+    "options": ["London", "Bucharest", "Stockholm", "Washington"],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "question": "What is the capital of Bulgaria?",
+    "options": ["Copenhagen", "London", "Sofia", "Paris"],
+    "answer": 2
+  }
+]
